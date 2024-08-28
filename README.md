@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=Be7X6QJusJA
 
 ## Frontend Handbook 2024
 https://frontendmasters.com/guides/front-end-handbook/2024/
+
+## How to create an NPM package in 2024
+https://www.totaltypescript.com/how-to-create-an-npm-package
