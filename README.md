@@ -9,3 +9,6 @@ https://frontendmasters.com/guides/front-end-handbook/2024/
 
 ## How to create an NPM package in 2024
 https://www.totaltypescript.com/how-to-create-an-npm-package
+
+## How to set up Next.js 15 for production in 2024
+https://www.reactsquad.io/blog/how-to-set-up-next-js-15-for-production
