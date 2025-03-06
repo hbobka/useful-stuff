@@ -12,3 +12,6 @@ https://www.totaltypescript.com/how-to-create-an-npm-package
 
 ## How to set up Next.js 15 for production in 2024
 https://www.reactsquad.io/blog/how-to-set-up-next-js-15-for-production
+
+## React Libraries for 2025
+https://www.robinwieruch.de/react-libraries/
